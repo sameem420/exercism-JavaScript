@@ -1,4 +1,5 @@
-# exercism-RUSTTrack
-Solution of the exercises from Exercism Rust track which I did while practicing.
+# Exercism-JavaScript Track
 
-Track LINK:- https://exercism.io/tracks/rust
+## Solution of the exercises from Exercism JavaScript track.
+
+Track LINK:- https://exercism.org/tracks/javascript
